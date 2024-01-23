@@ -16,11 +16,13 @@ Changes are reflected in real-time.
 Users can delete employee records when necessary.
 
 Technology Stack:
+
 Backend (Spring Boot):
 Java: The application logic is implemented using Java programming language.
 Spring Boot: Provides a robust and scalable framework for building backend services.
 Spring Data JPA: Simplifies data access and persistence.
 RESTful API: Exposes endpoints for communication with the frontend.
+
 Frontend (React):
 React: A JavaScript library for building user interfaces.
 State Management (e.g., Redux): Ensures efficient state handling for a seamless user experience.
